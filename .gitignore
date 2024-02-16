@@ -1,0 +1,42 @@
+# Arquivos de compilação do Visual Studio
+*.obj
+*.dll
+*.exe
+*.pdb
+*.log
+*.bin
+*.suo
+*.cache
+*.usertype.dat
+*.suo
+*.user
+
+# Arquivos gerados pelo Visual Studio
+*.vscode
+.vs
+/.vs/
+_/
+.history/
+*/bin/
+*/obj/
+*.dbmdl
+
+# Pasta de dependências do NuGet
+packages/
+
+# Arquivos de backup do Visual Studio
+*.bak
+
+# Arquivos de projeto
+*.xproj
+.project
+*.xcworkspace
+
+# Arquivos de configuração
+*.swp
+*.sln
+*.userprefs
+*.csproj.user
+*.suo
+*.user
+*.nuget/
