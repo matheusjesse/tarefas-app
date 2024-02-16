@@ -19,7 +19,6 @@
 /home/matheus/tarefas-app/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.tarefas-app.props
 /home/matheus/tarefas-app/obj/Debug/net8.0/staticwebassets.pack.json
 /home/matheus/tarefas-app/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
-/home/matheus/tarefas-app/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
 /home/matheus/tarefas-app/obj/Debug/net8.0/scopedcss/bundle/tarefas-app.styles.css
 /home/matheus/tarefas-app/obj/Debug/net8.0/scopedcss/projectbundle/tarefas-app.bundle.scp.css
 /home/matheus/tarefas-app/obj/Debug/net8.0/tarefas-app.dll
@@ -27,3 +26,18 @@
 /home/matheus/tarefas-app/obj/Debug/net8.0/tarefas-app.pdb
 /home/matheus/tarefas-app/obj/Debug/net8.0/tarefas-app.genruntimeconfig.cache
 /home/matheus/tarefas-app/obj/Debug/net8.0/ref/tarefas-app.dll
+/home/matheus/tarefas-app/obj/Debug/net8.0/tarefas-app.sourcelink.json
+/home/matheus/tarefas-app/bin/Debug/net8.0/Blazorise.dll
+/home/matheus/tarefas-app/bin/Debug/net8.0/Blazorise.Icons.FontAwesome.dll
+/home/matheus/tarefas-app/bin/Debug/net8.0/Blazorise.Licensing.dll
+/home/matheus/tarefas-app/bin/Debug/net8.0/Blazorise.Tailwind.dll
+/home/matheus/tarefas-app/bin/Debug/net8.0/DeepCloner.dll
+/home/matheus/tarefas-app/bin/Debug/net8.0/Microsoft.AspNetCore.Authorization.dll
+/home/matheus/tarefas-app/bin/Debug/net8.0/Microsoft.AspNetCore.Components.dll
+/home/matheus/tarefas-app/bin/Debug/net8.0/Microsoft.AspNetCore.Components.Forms.dll
+/home/matheus/tarefas-app/bin/Debug/net8.0/Microsoft.AspNetCore.Components.Web.dll
+/home/matheus/tarefas-app/bin/Debug/net8.0/Microsoft.AspNetCore.Metadata.dll
+/home/matheus/tarefas-app/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/matheus/tarefas-app/bin/Debug/net8.0/Microsoft.JSInterop.dll
+/home/matheus/tarefas-app/obj/Debug/net8.0/tarefas-app.csproj.AssemblyReference.cache
+/home/matheus/tarefas-app/obj/Debug/net8.0/tarefas-.4A8B743C.Up2Date

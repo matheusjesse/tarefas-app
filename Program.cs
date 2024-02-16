@@ -1,3 +1,6 @@
+using Blazorise;
+using Blazorise.Tailwind;
+using Blazorise.Icons.FontAwesome;
 using tarefas_app.Components;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -5,6 +8,12 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+// Configure Blazorise
+builder.Services
+    .AddBlazorise()
+    .AddTailwindProviders()
+    .AddFontAwesomeIcons();
 
 var app = builder.Build();
 
