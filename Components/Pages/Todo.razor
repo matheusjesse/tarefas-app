@@ -1,0 +1,33 @@
+@page "/todo";
+@rendermode InteractiveServer
+@using BlazorSample
+
+<PageTitle>Todo</PageTitle>
+
+<h3>Tarefas (@todos.Count(todo => !todo.IsDone))</h3>
+
+<ul>
+    @foreach (var todo in todos)
+    {
+        <li>
+            <input type="checkbox" @bind="todo.IsDone" />
+            <input @bind="todo.Title"/>
+        </li>
+    }
+</ul>
+
+<input placeholder="vazio..." @bind="newTodo" />
+<button @onclick="AddTodo">Adicionar Tarefa</button>
+
+@code {
+    private List<BlazorSample.TodoItem> todos = new();
+        private string? newTodo;
+    private void AddTodo()
+    {
+        if(!string.IsNullOrWhiteSpace(newTodo))
+        {
+            todos.Add(new TodoItem {Title = newTodo });
+            newTodo = string.Empty;
+        }
+    }
+}
